@@ -1,0 +1,14 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "main": "msg_client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "zeromq": "^6.5.0"
+  }
+}
